@@ -11,6 +11,9 @@ Movie Ratings & Overview: Quick info on every movie
 Clear Watchlist: Remove all movies in one click
 Responsive UI: Works on desktop and mobile
 
+🚀 Demo
+👉 https://movieboxnadun.netlify.app
+
 🛠️ Tech Stack
 React (Vite-based)
 React Router
